@@ -1,8 +1,10 @@
-URBAN_ROUTES_URL = ''
+URBAN_ROUTES_URL ='https://cnt-18a48045-1477-4ccd-8ea0-3c53ea8ecf43.containerhub.tripleten-services.com/?lng=pt'
 ADDRESS_FROM = 'East 2nd Street, 601'
 ADDRESS_TO = '1300 1st St'
 PHONE_NUMBER = '+1 123 123 12 12'
 CARD_NUMBER = '1234 5678 9100'
 CARD_CODE = '1111'
 MESSAGE_FOR_DRIVER = 'Pare no bar de sucos'
-
+ORDER_BLANKET_AND_HANDKERCHIEFS = 'Pedidos de mantas e lençoes'
+CVV_CODE = '123'
+CARD_MODEL = 'Visa'
